@@ -1,3 +1,5 @@
+// How to declare a variable
+
 const birthYear = 1850;
 const siblings = 3;
 const students = 1000;
