@@ -15,3 +15,4 @@ console.log(fan);
 console.log(movieOfTheYear);
 console.log(hobby);
 console.log(color);
+
